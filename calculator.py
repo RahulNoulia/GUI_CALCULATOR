@@ -34,10 +34,6 @@ def result():
         eq.set("Malformed expression")
         value = ""
 
-def back():
-    global  value
-
-
 
 if __name__=="__main__":
 
