@@ -71,7 +71,6 @@ if __name__=="__main__":
     Button(root, text='-', width='6', height='2',activebackground='#FF3E4D',command=lambda :click("-")).grid(row=3, column='4')
     Button(root, text='+', width='6', height='2',activebackground='#FF3E4D',command=lambda :click("+")).grid(row=3, column='5')
 
-    #Button(root, text=chr(8635), width='6', height='2',activebackground='#FF3E4D',command=back).grid(row=3, column='6')
 
     Button(root, text='0', width='6', height='2',activebackground='#FF3E4D',command=lambda :click(0)).grid(row=4, column='1')
     Button(root, text='.', width='6', height='2',activebackground='#FF3E4D',command=lambda :click(".")).grid(row=4, column='2')
