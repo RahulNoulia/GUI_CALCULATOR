@@ -42,6 +42,8 @@ if __name__=="__main__":
     root.title("Calculator")
 
     root.geometry("450x265")
+    
+    root.resizable(width=False ,height=False)
     eq = StringVar()
     root.configure(background="cyan")
 
