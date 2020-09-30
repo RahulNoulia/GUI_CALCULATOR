@@ -1,5 +1,5 @@
-# Gui_calculator
+# GUI_Calculator
 
-This is just a simple GUI calculator in python (Using Tkinter package )
+This is just a simple GUI calculator in python (Using Tkinter package)
 
 ![](https://github.com/RahulNoulia/Gui_calculator/blob/master/output.png)
